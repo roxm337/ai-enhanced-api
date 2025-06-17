@@ -1,0 +1,7 @@
+{
+  "summarize": "Summarize the following text in a {style} tone:\n\n{text}",
+  "rephrase": "Rephrase the following text in a {tone} tone:\n\n{text}",
+  "extract_keywords": "Extract the most relevant keywords or phrases from the following text. List them as a bullet list:\n\n{text}",
+  "generate_quiz": "Generate {count} multiple-choice quiz questions with 4 options each based on the following text:\n\n{text}",
+  "explain": "Explain the following topic to a {level} in 3 short paragraphs:\n\n{text}"
+}
