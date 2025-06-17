@@ -6,7 +6,13 @@
 ![License](https://img.shields.io/github/license/roxm337/gemini-ai-toolkit?style=flat-square)
 
 ---
+## Screenshots
 
+
+![Example generate-quiz Request](assets/1.png)
+![Example generate-quiz response](assets/2.png)
+
+*Example of a summarize endpoint request in Postman*
 ## Overview
 
 **AI-Enhanced-API** is a FastAPI backend providing multiple AI-powered endpoints using Google's Gemini 2.0 large language model. This toolkit enables you to:
